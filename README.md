@@ -3,7 +3,7 @@
 > Desktop application created with Java,PosgreSQL,Springboot,Servlets,Xchart for to provide support in a gym system.
 > Interface with all the necessary business features.
 >
-> Language project: Spanish.
+> Language project: Spanish
 
 # 🏛 Architecture
 This software project was built using a layered architecture.
@@ -24,7 +24,7 @@ This software project was built using a layered architecture.
 * Promotions Management
 * Plans Management
 * Logout
-* 
+  
 # ▶ Demo
 ![Diseño sin título](https://github.com/user-attachments/assets/18eb39b4-1a15-4b5e-b251-f702c2c79423)
 
