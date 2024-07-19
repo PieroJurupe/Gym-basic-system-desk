@@ -6,7 +6,9 @@
 
 # 🏛 Architecture
 This software project was built using a layered architecture.
+
 ![image](https://github.com/user-attachments/assets/83760419-6df8-4ab1-8400-176bc2dc9701)
+
 # 📄 Database Schema
 ![DIAGRAMA 1](https://github.com/user-attachments/assets/610be691-ca47-4c99-a442-43546b653964) ![DIAGRAMA 2](https://github.com/user-attachments/assets/c55f43ab-9b44-47f8-874d-87dca013dfe8)
 
@@ -22,8 +24,8 @@ This software project was built using a layered architecture.
 * Logout
 * 
 # ▶ Demo
-![empleados](https://github.com/user-attachments/assets/29bc512e-1960-495d-8609-455de558d84a) ![Manejo de promociones](https://github.com/user-attachments/assets/a78b0aa6-78c8-43e6-a73c-e50de81a984e)
-![suscripciones](https://github.com/user-attachments/assets/82bb6b8e-721c-48d4-9fc0-e162f00325b1) ![reporte de assitencia](https://github.com/user-attachments/assets/e9d1f500-52fa-4660-bfc9-3e79d7d30485)
+
+![Diseño sin título](https://github.com/user-attachments/assets/18eb39b4-1a15-4b5e-b251-f702c2c79423)
 
 # ⚙ Technologies used
 * PostgreSQL
