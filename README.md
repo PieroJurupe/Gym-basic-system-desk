@@ -37,7 +37,7 @@ Este proyecto de software se construyó utilizando una arquitectura en capas.
 * Gradle
 
 # 🛠 Iniciar el proyecto
-Use IntelliJ to open the program, add a new database, and add a new user using postman to finally run the program. Use NetBeans19 to run the front end and log in with the new user to enter the program, some functions will be temporarily unavailable as they require new data to be created first. For example, it is necessary to create a user to see the user table
+Usar IntelliJ para abrir el programa, agregar una nueva base de datos y un nuevo usuario con Postman para ejecutarlo. Use NetBeans19 para ejecutar el frontend e inicie sesión con el nuevo usuario para acceder al programa. Algunas funciones no estarán disponibles temporalmente, ya que requieren la creación previa de nuevos datos. Por ejemplo, es necesario crear un usuario para ver la tabla de usuarios.
 
 # 👷‍♀️ Contribuidores
 * [Piero Jurupe](https://github.com/PieroJurupe)
