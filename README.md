@@ -6,7 +6,7 @@
 > Idioma: Español
 
 # 🏛 Arquitectura
-Este proyecto de software se construyó utilizando una arquitectura en capas.
+>Este proyecto de software se construyó utilizando una arquitectura en capas.
 ![image](https://github.com/user-attachments/assets/83760419-6df8-4ab1-8400-176bc2dc9701)
 
 # 📄 Base de datos
